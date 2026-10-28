@@ -7,7 +7,7 @@ const App = () => {
     <div style={{ padding: "50px" }}>
       <h1>My React Project</h1>
       
-      {/*  */}
+      {/* my two components */}
       <Counter />
       <ToggleDisplay />
       
