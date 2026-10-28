@@ -5,7 +5,7 @@ const ToggleDisplay = () => {
 
     return (
         <div style={{ padding: "20px", border: "1px solid #ccc", marginTop: "20px" }}>
-            <h2>2 No Component: Hide / Show</h2>
+            <h2>2. No Component: Hide / Show Text</h2>
             <button onClick={() => setIsVisible(prev => !prev)}>
                 {isVisible ? "Hide Text" : "Show Text"}
             </button>
