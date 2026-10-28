@@ -5,7 +5,7 @@ const PasswordToggle = () => {
     const [passtype, setPasstype] = useState(true)
 
     return (
-        <div style={{ padding: "20px 0" }}>
+        <div style={{ padding: "20px 0", border: "1px solid #ccc", marginTop: "20px"}}>
             <div>
                 <h2>3. No Component: Hide / Show Password</h2>
                 <input 
