@@ -5,7 +5,7 @@ import ToggleDisplay from './components/ToggleDisplay.jsx'
 const App = () => {
   return (
     <div style={{ padding: "50px" }}>
-      <h1></h1>
+      <h1>My React Project</h1>
       
       {/*  */}
       <Counter />
